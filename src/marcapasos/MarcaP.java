@@ -17,5 +17,6 @@ public class MarcaP {
     double MaxFuerza;
     double minimoTiempo;
     char CodigoFabricante;
+    int d;
     
 }
